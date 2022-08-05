@@ -1,5 +1,4 @@
 # lsm-nerf
-LSM NeRF
 Methods employing Multi View Features to interpolate intermediate views are able to create volumes which can only render local views. LSM NeRF is my attempt to create a 360 Field, which can be used to render arbitrary view in a single pass.
 
 Citations: 
